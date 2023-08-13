@@ -1,0 +1,3 @@
+{"avg_hallu_ner_ratio": 0.41433823924722335, "nli_contradict_class_ratio": 0.2917647058823529, "nli_neutral_class_ratio": 0.6072549019607844, "nli_entail_class_ratio": 0.10098039215686275, "no_fact_ratio": 0.23412152873247183, "has_fact_ratio": 0.7011273027220236, "off_topic_ratio": 0.06475116854550454}
+{"num_repeted_examples": 2443, "prop_rep": 2.776375}
+{"num_repeted_examples": 2443, "prop_rep": 2.776375}
